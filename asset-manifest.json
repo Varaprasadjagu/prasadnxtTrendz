@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/prasadnxtTrendz/static/css/main.97c62d5c.chunk.css",
+    "main.js": "/prasadnxtTrendz/static/js/main.d0b475ff.chunk.js",
+    "main.js.map": "/prasadnxtTrendz/static/js/main.d0b475ff.chunk.js.map",
+    "runtime-main.js": "/prasadnxtTrendz/static/js/runtime-main.a7c51ecd.js",
+    "runtime-main.js.map": "/prasadnxtTrendz/static/js/runtime-main.a7c51ecd.js.map",
+    "static/js/2.f9b625f0.chunk.js": "/prasadnxtTrendz/static/js/2.f9b625f0.chunk.js",
+    "static/js/2.f9b625f0.chunk.js.map": "/prasadnxtTrendz/static/js/2.f9b625f0.chunk.js.map",
+    "index.html": "/prasadnxtTrendz/index.html",
+    "static/css/main.97c62d5c.chunk.css.map": "/prasadnxtTrendz/static/css/main.97c62d5c.chunk.css.map",
+    "static/js/2.f9b625f0.chunk.js.LICENSE.txt": "/prasadnxtTrendz/static/js/2.f9b625f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7c51ecd.js",
+    "static/js/2.f9b625f0.chunk.js",
+    "static/css/main.97c62d5c.chunk.css",
+    "static/js/main.d0b475ff.chunk.js"
+  ]
+}
